@@ -1,0 +1,597 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="38862486-5cf2-427e-8392-db5612851893" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Products/static/img/Leisure_T_shirt1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Products/static/img/Leisure_T_shirt2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Products/static/img/Screenshot_20170718-102354.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Products/static/img/ability.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Products/static/img/active.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Products/static/img/add.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Products/static/img/add_more.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Products/static/img/all.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Products/static/img/article.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Products/static/img/athletic_undergarment1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Products/static/img/athletic_undergarment2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Products/static/img/brands.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Products/static/img/catering_banner.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Products/static/img/cdup.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Products/static/img/choiceness_banner1.PNG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Products/static/img/choiceness_banner2.PNG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Products/static/img/choiceness_banner3.PNG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Products/static/img/choiceness_banner4.PNG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Products/static/img/choiceness_banner5.PNG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Products/static/img/clothes_banner.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Products/static/img/clothes_banner1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Products/static/img/cold_drink1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Products/static/img/cold_drink2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Products/static/img/cookie_step1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Products/static/img/cookie_step2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Products/static/img/cookie_step3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Products/static/img/cookie_step4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Products/static/img/cookie_step5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Products/static/img/couple_t_shirts1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Products/static/img/couple_t_shirts2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Products/static/img/cycle.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Products/static/img/cycling.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Products/static/img/cyclings.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Products/static/img/daily1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Products/static/img/data.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Products/static/img/diet_banner1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Products/static/img/diet_banner2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Products/static/img/eating_animals1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Products/static/img/eating_animals2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Products/static/img/favorite.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Products/static/img/favorite2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Products/static/img/fitness.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Products/static/img/food_guides.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Products/static/img/foods_libs.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Products/static/img/girls_hot.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Products/static/img/groups_head1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Products/static/img/groups_head2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Products/static/img/groups_news1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Products/static/img/groups_news2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Products/static/img/head_portrait.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Products/static/img/high_protein1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Products/static/img/high_protein2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Products/static/img/history.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Products/static/img/home.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Products/static/img/hot_banner1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Products/static/img/hot_events.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Products/static/img/hot_news1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Products/static/img/hot_news2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Products/static/img/hot_news3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Products/static/img/hot_news4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Products/static/img/hot_news5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Products/static/img/hot_news6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Products/static/img/intelligent1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Products/static/img/intelligent2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Products/static/img/intelligent3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Products/static/img/lose_weight.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Products/static/img/lunch1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Products/static/img/lunch2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Products/static/img/men_clothes.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Products/static/img/menu.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Products/static/img/more.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Products/static/img/more_and.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Products/static/img/motion.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Products/static/img/msg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Products/static/img/music.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Products/static/img/nav_discover.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Products/static/img/nav_discover2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Products/static/img/nav_mine.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Products/static/img/nav_mine2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Products/static/img/nav_train.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Products/static/img/nav_train2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Products/static/img/nav_trends.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Products/static/img/notice.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Products/static/img/outdoors_running.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Products/static/img/photo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Products/static/img/posture.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Products/static/img/read_count.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Products/static/img/recommend_sport1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Products/static/img/recommend_sport2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Products/static/img/recommend_sport3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Products/static/img/record.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Products/static/img/run.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Products/static/img/running.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Products/static/img/running_about1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Products/static/img/running_about2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Products/static/img/running_about3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Products/static/img/safety.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Products/static/img/schedule.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Products/static/img/search.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Products/static/img/select.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Products/static/img/setting.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Products/static/img/share.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Products/static/img/shop_banner.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Products/static/img/shopping_chart.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Products/static/img/small1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Products/static/img/small2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Products/static/img/small3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Products/static/img/small4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Products/static/img/small5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Products/static/img/small6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Products/static/img/sports_T_shirt1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Products/static/img/sports_T_shirt2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Products/static/img/sports_equipment.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Products/static/img/staple_food1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Products/static/img/staple_food2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Products/static/img/strategy1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Products/static/img/strategy2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Products/static/img/summer_drink1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Products/static/img/summer_drink2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Products/static/img/the_new.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Products/static/img/topic1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Products/static/img/topic2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Products/static/img/topic3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Products/static/img/total_range.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Products/static/img/totop.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Products/static/img/train_banner.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Products/static/img/train_banner1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Products/static/img/train_banner2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Products/static/img/train_banner3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Products/static/img/vacation.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Products/static/img/women_clothes.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Products/static/img/write.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Products/static/img/yoga.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Products/model/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Products/static/css/catering.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Products/static/css/catering.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Products/static/css/catering.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Products/static/css/discovering.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Products/static/css/discovering.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Products/static/css/discovering.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Products/static/css/goods_details.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Products/static/css/goods_details.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Products/static/css/goods_details.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Products/static/css/index.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Products/static/css/index.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Products/static/css/index.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Products/static/css/mine.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Products/static/css/mine.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Products/static/css/mine.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Products/static/css/public.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Products/static/css/public.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Products/static/css/public.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Products/static/css/shopping_cart.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Products/static/css/shopping_cart.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Products/static/css/shopping_cart.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Products/static/css/status.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Products/static/css/status.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Products/static/css/status.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Products/static/css/swiper.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Products/static/css/swiper.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Products/static/js/common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Products/static/js/jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Products/static/js/swiper.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Products/static/js/swiper.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Products/view/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Products/view/main.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Products/viewModel/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webpack.config.js" />
+    </list>
+    <ignored path="KEEP.VUE.MVVM.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="KEEP.VUE.MVVM" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-2.75">
+              <caret line="19" column="20" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="common.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Products/static/js/common.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="webpack.config.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/webpack.config.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.67413795">
+              <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Products/view/main.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Products/view/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-6.46875">
+              <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Products/viewModel/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Products/model/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/Products/view/index.html" />
+        <option value="$PROJECT_DIR$/Products/viewModel/index.js" />
+        <option value="$PROJECT_DIR$/Products/model/index.js" />
+        <option value="$PROJECT_DIR$/Products/view/main.js" />
+        <option value="$PROJECT_DIR$/webpack.config.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1296" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <OptionsSetting value="true" id="添加" />
+    <OptionsSetting value="true" id="移除" />
+    <OptionsSetting value="true" id="签出" />
+    <OptionsSetting value="true" id="更新" />
+    <OptionsSetting value="true" id="状态" />
+    <OptionsSetting value="true" id="编辑" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="KEEP.VUE.MVVM" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="KEEP.VUE.MVVM" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="KEEP.VUE.MVVM" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="KEEP.VUE.MVVM" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="KEEP.VUE.MVVM" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Products" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="viewModel" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="KEEP.VUE.MVVM" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="KEEP.VUE.MVVM" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Products" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="view" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="KEEP.VUE.MVVM" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="KEEP.VUE.MVVM" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Products" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="KEEP.VUE.MVVM" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="KEEP.VUE.MVVM" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Products" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="KEEP.VUE.MVVM" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="KEEP.VUE.MVVM" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Products" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="model" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\KEEP.VUE.MVVM" />
+      <recent name="E:\KEEP.VUE.MVVM\Products" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="38862486-5cf2-427e-8392-db5612851893" name="Default" comment="" />
+      <created>1501122424789</created>
+      <option name="number" value="Default" />
+      <updated>1501122424789</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1296" height="1040" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3298887" sideWeight="0.5" order="-1" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32929516" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.75">
+          <caret line="19" column="20" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Products/static/js/common.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Products/view/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.46875">
+          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Products/viewModel/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Products/model/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Products/view/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webpack.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.67413795">
+          <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
